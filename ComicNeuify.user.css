@@ -10,7 +10,7 @@
 
 @import url('https://fonts.googleapis.com/css?family=Comic+Neue&display=swap');
 
-@-moz-document regexp("^((?!1337x.to|hydrofarm.com|xda-developers.com|exis.com|dictionary.com|truesteamachievements.com|thesaurus.com|si.edu|thunderstore.io|nexusmods.com|epicgames.com|dotsies.org|nfsmods.xyz|nyaa.si).)*$") v {
+@-moz-document regexp("^((?!1337x.to|hydrofarm.com|xda-developers.com|exis.com|dictionary.com|truesteamachievements.com|thesaurus.com|si.edu|thunderstore.io|nexusmods.com|epicgames.com|dotsies.org|nfsmods.xyz|nyaa.si).)*$") {
     @require url('https://fonts.googleapis.com/css?family=Comic+Neue&display=swap');
     *:not(span) {
         font-family: Comic Neue !important;
