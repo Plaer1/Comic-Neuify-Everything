@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name         Comic Neuify Everything!
 @namespace    github.com/openstyles/stylus
-@version      4.2.4
+@version      4.2.6
 @license      GNU GPL V2.0
 @preprocessor default
 @var color link-color "Link Color" purple
@@ -12,8 +12,13 @@
 
 @-moz-document regexp("^((?!1337x.to|hydrofarm.com|xda-developers.com|exis.com|dictionary.com|truesteamachievements.com|thesaurus.com|si.edu|thunderstore.io|nexusmods.com|epicgames.com|dotsies.org|nfsmods.xyz|nyaa.si).)*$") {
     *:not(span) {
-        src: url("https://github.com/Plaer1/Comic-Neuify-Everything/blob/master/ComicNeue-Regular.woff2?raw=true") format("woff2");
         font-family: Comic Neue !important;
+        font-weight: 500;
+    }
+
+    @font-face {
+        src: url("https://github.com/Plaer1/Comic-Neuify-Everything/blob/master/ComicNeue-Regular.woff2?raw=true") format("woff2");
+        font-family: Comic Neue;
         font-weight: 500;
     }
 }
@@ -21,62 +26,95 @@
 
 @-moz-document domain("1337x.to") {
     *:not([class^='flaticon-']) {
-        src: url("https://github.com/Plaer1/Comic-Neuify-Everything/blob/master/ComicNeue-Regular.woff2?raw=true") format("woff2");
         font-family: Comic Neue !important;
+        font-weight: 500;
+    }
+    @font-face {
+        src: url("https://github.com/Plaer1/Comic-Neuify-Everything/blob/master/ComicNeue-Regular.woff2?raw=true") format("woff2");
+        font-family: Comic Neue;
         font-weight: 500;
     }
 }
 
 @-moz-document domain("thunderstore.io"), domain("nfsmods.xyz"), domain("nyaa.si"), domain("si.edu"), domain("truesteamachievements.com"), domain("xda-developers.com") {
     *:not([class^='fa']) {
-        src: url("https://github.com/Plaer1/Comic-Neuify-Everything/blob/master/ComicNeue-Regular.woff2?raw=true") format("woff2");
         font-family: Comic Neue !important;
+        font-weight: 500;
+    }
+
+    @font-face {
+        src: url("https://github.com/Plaer1/Comic-Neuify-Everything/blob/master/ComicNeue-Regular.woff2?raw=true") format("woff2");
+        font-family: Comic Neue;
         font-weight: 500;
     }
 }
 
 @-moz-document domain("nexusmods.com") {
     *:not([class^='material-icons']):not([class^='lg-']) {
-        src: url("https://github.com/Plaer1/Comic-Neuify-Everything/blob/master/ComicNeue-Regular.woff2?raw=true") format("woff2");
         font-family: Comic Neue !important;
         font-weight: 500;
     }
 
     .lg-counter {
-        src: url("https://github.com/Plaer1/Comic-Neuify-Everything/blob/master/ComicNeue-Regular.woff2?raw=true") format("woff2");
         font-family: Comic Neue !important;
+        font-weight: 500;
+    }
+
+    @font-face {
+        src: url("https://github.com/Plaer1/Comic-Neuify-Everything/blob/master/ComicNeue-Regular.woff2?raw=true") format("woff2");
+        font-family: Comic Neue;
         font-weight: 500;
     }
 }
 
 @-moz-document domain("epicgames.com") {
     *:not([class^='eg-header-icon-']) {
-        src: url("https://github.com/Plaer1/Comic-Neuify-Everything/blob/master/ComicNeue-Regular.woff2?raw=true") format("woff2");
         font-family: Comic Neue !important;
+        font-weight: 500;
+    }
+
+    @font-face {
+        src: url("https://github.com/Plaer1/Comic-Neuify-Everything/blob/master/ComicNeue-Regular.woff2?raw=true") format("woff2");
+        font-family: Comic Neue;
         font-weight: 500;
     }
 }
 
 @-moz-document url-prefix("https://www.thesaurus.com"), url-prefix("https://www.dictionary.com") {
     *:not(button):not(span):not([class^='fa']):not([class^='css-wznwfv']) {
-        src: url("https://github.com/Plaer1/Comic-Neuify-Everything/blob/master/ComicNeue-Regular.woff2?raw=true") format("woff2");
         font-family: Comic Neue !important;
+        font-weight: 500;
+    }
+
+    @font-face {
+        src: url("https://github.com/Plaer1/Comic-Neuify-Everything/blob/master/ComicNeue-Regular.woff2?raw=true") format("woff2");
+        font-family: Comic Neue;
         font-weight: 500;
     }
 }
 
 @-moz-document domain("lexis.com") {
     *:not([class^='icon']) {
-        src: url("https://github.com/Plaer1/Comic-Neuify-Everything/blob/master/ComicNeue-Regular.woff2?raw=true") format("woff2");
         font-family: Comic Neue !important;
+        font-weight: 500;
+    }
+
+    @font-face {
+        src: url("https://github.com/Plaer1/Comic-Neuify-Everything/blob/master/ComicNeue-Regular.woff2?raw=true") format("woff2");
+        font-family: Comic Neue;
         font-weight: 500;
     }
 }
 
 @-moz-document domain("hydrofarm.com") {
     *:not([class^='fa']):not([class^='glyphicon']) {
-        src: url("https://github.com/Plaer1/Comic-Neuify-Everything/blob/master/ComicNeue-Regular.woff2?raw=true") format("woff2");
         font-family: Comic Neue !important;
+        font-weight: 500;
+    }
+
+    @font-face {
+        src: url("https://github.com/Plaer1/Comic-Neuify-Everything/blob/master/ComicNeue-Regular.woff2?raw=true") format("woff2");
+        font-family: Comic Neue;
         font-weight: 500;
     }
 }
