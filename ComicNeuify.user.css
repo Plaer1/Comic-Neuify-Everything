@@ -11,70 +11,72 @@
 @import url('https://fonts.googleapis.com/css?family=Comic+Neue&display=swap');
 
 @-moz-document regexp("^((?!1337x.to|hydrofarm.com|xda-developers.com|exis.com|dictionary.com|truesteamachievements.com|thesaurus.com|si.edu|thunderstore.io|nexusmods.com|epicgames.com|dotsies.org|nfsmods.xyz|nyaa.si).)*$") {
-    @require url('https://fonts.googleapis.com/css?family=Comic+Neue&display=swap');
     *:not(span) {
         font-family: Comic Neue !important;
+        src: url("https://github.com/Plaer1/Comic-Neuify-Everything/blob/master/ComicNeue-Regular.woff2?raw=true") format("woff2");
         font-weight: 500;
     }
 }
 
 
 @-moz-document domain("1337x.to") {
-    @require url('https://fonts.googleapis.com/css?family=Comic+Neue&display=swap');
     *:not([class^='flaticon-']) {
         font-family: Comic Neue !important;
+        src: url("https://github.com/Plaer1/Comic-Neuify-Everything/blob/master/ComicNeue-Regular.woff2?raw=true") format("woff2");
         font-weight: 500;
     }
 }
 
 @-moz-document domain("thunderstore.io"), domain("nfsmods.xyz"), domain("nyaa.si"), domain("si.edu"), domain("truesteamachievements.com"), domain("xda-developers.com") {
-    @require url('https://fonts.googleapis.com/css?family=Comic+Neue&display=swap');
     *:not([class^='fa']) {
         font-family: Comic Neue !important;
+        src: url("https://github.com/Plaer1/Comic-Neuify-Everything/blob/master/ComicNeue-Regular.woff2?raw=true") format("woff2");
         font-weight: 500;
     }
 }
 
 @-moz-document domain("nexusmods.com") {
-    @require url('https://fonts.googleapis.com/css?family=Comic+Neue&display=swap');
     *:not([class^='material-icons']):not([class^='lg-']) {
         font-family: Comic Neue !important;
+        src: url("https://github.com/Plaer1/Comic-Neuify-Everything/blob/master/ComicNeue-Regular.woff2?raw=true") format("woff2");
         font-weight: 500;
     }
+
     .lg-counter {
         font-family: Comic Neue !important;
+        src: url("https://github.com/Plaer1/Comic-Neuify-Everything/blob/master/ComicNeue-Regular.woff2?raw=true") format("woff2");
         font-weight: 500;
     }
 }
 
 @-moz-document domain("epicgames.com") {
-    @require url('https://fonts.googleapis.com/css?family=Comic+Neue&display=swap');
     *:not([class^='eg-header-icon-']) {
         font-family: Comic Neue !important;
+        src: url("https://github.com/Plaer1/Comic-Neuify-Everything/blob/master/ComicNeue-Regular.woff2?raw=true") format("woff2");
         font-weight: 500;
     }
 }
 
 @-moz-document url-prefix("https://www.thesaurus.com"), url-prefix("https://www.dictionary.com") {
-    @require url('https://fonts.googleapis.com/css?family=Comic+Neue&display=swap');
     *:not(button):not(span):not([class^='fa']):not([class^='css-wznwfv']) {
         font-family: Comic Neue !important;
+        src: url("https://github.com/Plaer1/Comic-Neuify-Everything/blob/master/ComicNeue-Regular.woff2?raw=true") format("woff2");
         font-weight: 500;
     }
 }
 
 @-moz-document domain("lexis.com") {
-    @require url('https://fonts.googleapis.com/css?family=Comic+Neue&display=swap');
     *:not([class^='icon']) {
         font-family: Comic Neue !important;
+        src: url("https://github.com/Plaer1/Comic-Neuify-Everything/blob/master/ComicNeue-Regular.woff2?raw=true") format("woff2");
         font-weight: 500;
     }
 }
 
 @-moz-document domain("hydrofarm.com") {
-    @require url('https://fonts.googleapis.com/css?family=Comic+Neue&display=swap');
     *:not([class^='fa']):not([class^='glyphicon']) {
         font-family: Comic Neue !important;
+        src: url("https://github.com/Plaer1/Comic-Neuify-Everything/blob/master/ComicNeue-Regular.woff2?raw=true") format("woff2");
         font-weight: 500;
     }
 }
