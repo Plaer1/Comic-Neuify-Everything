@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name         Comic Neuify Everything!
 @namespace    github.com/openstyles/stylus
-@version      4.2.8
+@version      4.2.9
 @license      GNU GPL V2.0
 @preprocessor default
 @var color link-color "Link Color" purple
@@ -11,4 +11,4 @@
 /* Feel free to comment out this line if you have the font locally */
 @import url('https://fonts.googleapis.com/css?family=Comic+Neue&display=swap');
 
-*:not(span):not([class*='icon']):not([class^='fa']):not([class$='button']){font-family: Comic Neue !important; font-weight: 500;}
+    *:not(span):not([class*='icon']):not([class^='fa']):not([class$='button']){font-family: Comic Neue !important; font-weight: 500;}
