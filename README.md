@@ -14,7 +14,7 @@ To use this usercss, you'll need a browser extension that supports usercss. Here
 - [Stylus](https://add0n.com/stylus.html) (Firefox and Chrome)
 - [Stylish](https://userstyles.org/) (Firefox, Chrome, and Safari)
 
-Once you have a usercss extension installed, you can [![click to install](Everything/blob/5ae84b9e80ccb3c5d70125b9c9c1f755deabaf4e/5bQ7dovP.gif)](https://github.com/Plaer1/Comic-Neuify-Everything/raw/master/ComicNeuify.user.css) 
+Once you have a usercss extension installed, you can [![click to install](https://github.com/Plaer1/Comic-Neuify-Everything/blob/249eaca3f475461a4b61591259dde1651235cd2a/click2install.gif)](https://github.com/Plaer1/Comic-Neuify-Everything/raw/master/ComicNeuify.user.css) 
 
 [Learn more about the font here.](http://comicneue.com)
 
