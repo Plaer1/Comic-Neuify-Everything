@@ -10,5 +10,4 @@
 
 /* Feel free to comment out this line if you have the font locally */
 @import url('https://fonts.googleapis.com/css?family=Comic+Neue&display=swap');
-
     *:not(span):not([class*='icon']):not([class^='fa']):not([class$='button']){font-family: Comic Neue !important; font-weight: 500;}
