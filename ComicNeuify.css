@@ -1,0 +1,3 @@
+@import url('https://fonts.googleapis.com/css?family=Comic+Neue&display=swap');
+
+    *:not([class*='icon']):not([class^='fa']):not([class$='button']):not([span='']){font-family:  Comic Neue !important}
