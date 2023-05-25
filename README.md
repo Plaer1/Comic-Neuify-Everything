@@ -17,4 +17,3 @@ To use this usercss, you'll need a browser extension that supports usercss. Here
 Once you have a usercss extension installed, you can [![click to install](https://github.com/Plaer1/Comic-Neuify-Everything/blob/249eaca3f475461a4b61591259dde1651235cd2a/click2install.gif)](https://github.com/Plaer1/Comic-Neuify-Everything/raw/master/ComicNeuify.user.css) 
 
 [Learn more about the font here.](http://comicneue.com)
-
