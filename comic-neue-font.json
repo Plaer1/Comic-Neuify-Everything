@@ -1,0 +1,13 @@
+{
+  "spec": 1,
+  "name": "Comic Neue",
+  "description": "Comic Sans but good",
+  "main": {
+    "ComicNeue-Regular": "https://fonts.gstatic.com/s/comicneue/v9/4UaFrEJDsxBrF37olUeD96_p4g.ttf",
+    "ComicNeue-Bold": "https://fonts.gstatic.com/s/comicneue/v9/4UaErEJDsxBrF37olUeD_wHLwps.ttf",
+    "ComicNeue-Light": "https://fonts.gstatic.com/s/comicneue/v9/4UaHrEJDsxBrF37olUeDx60.ttf",
+    "ComicNeue-RegularItalic": "https://fonts.gstatic.com/s/comicneue/v9/4UaarEJDsxBrF37olUeD96_RTplUKw.ttf",
+    "ComicNeue-BoldItalic": "https://fonts.gstatic.com/s/comicneue/v9/4UaErEJDsxBrF37olUeD_xHMwps.ttf",
+    "ComicNeue-LightItalic": "https://fonts.gstatic.com/s/comicneue/v9/4UaarEJDsxBrF37olUeD96_RXp5UKw.ttf"
+  }
+}
