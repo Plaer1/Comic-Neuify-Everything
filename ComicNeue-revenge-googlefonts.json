@@ -1,0 +1,13 @@
+{
+  "spec": 1,
+  "name": "Comic Neue",
+  "description": "Comic Sans but good",
+  "main": {
+    "ComicNeue-Light": "https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap",
+    "ComicNeue-Regular": "https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap",
+    "ComicNeue-Bold": "https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap",
+    "ComicNeue-LightItalic": "https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap",
+    "ComicNeue-RegularItalic": "https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap",
+    "ComicNeue-BoldItalic": "https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap"
+  }
+}
