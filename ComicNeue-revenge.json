@@ -1,13 +1,16 @@
 {
   "spec": 1,
   "name": "Comic Neue",
-  "description": "Comic Neue — a refined, cleaner successor to Comic Sans",
+  "description": "Comic Neue — replaces Discord's default font with a refined Comic Sans successor",
   "main": {
-    "ComicNeue-Bold": "https://fonts.gstatic.com/s/comicneue/v9/4UaErEJDsxBrF37olUeD_xHMwps.ttf",
-    "ComicNeue-BoldItalic": "https://fonts.gstatic.com/s/comicneue/v9/4UaarEJDsxBrF37olUeD96_RXp5UKw.ttf",
-    "ComicNeue-Light": "https://fonts.gstatic.com/s/comicneue/v9/4UaErEJDsxBrF37olUeD_wHLwps.ttf",
-    "ComicNeue-LightItalic": "https://fonts.gstatic.com/s/comicneue/v9/4UaarEJDsxBrF37olUeD96_RTplUKw.ttf",
-    "ComicNeue-Regular": "https://fonts.gstatic.com/s/comicneue/v9/4UaHrEJDsxBrF37olUeDx60.ttf",
-    "ComicNeue-RegularItalic": "https://fonts.gstatic.com/s/comicneue/v9/4UaFrEJDsxBrF37olUeD96_p4g.ttf"
+    "ggsans": "https://fonts.gstatic.com/s/comicneue/v9/4UaHrEJDsxBrF37olUeDx60.ttf",
+    "ggsans-Regular": "https://fonts.gstatic.com/s/comicneue/v9/4UaHrEJDsxBrF37olUeDx60.ttf",
+    "ggsans-Bold": "https://fonts.gstatic.com/s/comicneue/v9/4UaErEJDsxBrF37olUeD_xHMwps.ttf",
+    "ggsans-Italic": "https://fonts.gstatic.com/s/comicneue/v9/4UaFrEJDsxBrF37olUeD96_p4g.ttf",
+    "ggsans-BoldItalic": "https://fonts.gstatic.com/s/comicneue/v9/4UaarEJDsxBrF37olUeD96_RXp5UKw.ttf",
+    "gg sans": "https://fonts.gstatic.com/s/comicneue/v9/4UaHrEJDsxBrF37olUeDx60.ttf",
+    "gg sans_bold": "https://fonts.gstatic.com/s/comicneue/v9/4UaErEJDsxBrF37olUeD_xHMwps.ttf",
+    "gg sans_italic": "https://fonts.gstatic.com/s/comicneue/v9/4UaFrEJDsxBrF37olUeD96_p4g.ttf",
+    "gg sans_bold_italic": "https://fonts.gstatic.com/s/comicneue/v9/4UaarEJDsxBrF37olUeD96_RXp5UKw.ttf"
   }
 }
